@@ -21,5 +21,5 @@ link: not yet available
 ### Other:
 
 * Age: 15
-* Country: Russia
 * Time: UTC +11:00
+* Country: Russia
