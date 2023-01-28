@@ -20,6 +20,6 @@ link: not yet available
 
 ### Other:
 
-* age: 15
-* country: Russia
-* time: UTC +11:00
+* Age: 15
+* Country: Russia
+* Time: UTC +11:00
