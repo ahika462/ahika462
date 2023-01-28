@@ -1,16 +1,23 @@
-### Hi there 👋
+# About me
 
-<!--
-**h4master/h4master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Making some FNF mods
 
-Here are some ideas to get you started:
+Namely:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Friday Night Fisting
+* Friday Night RYTP
+* Funker 3: Mind Game
+* FNF Animania! (just subtitles)
+* Depressive Night Murder
+* World of Funkin'
+* Wave Funk Leisure
+* Funkin' Ink Machine
+* There's something funky about Amy
+
+### Making my own engine
+
+link: not yet available
+
+### Other:
+
+I'm 15
