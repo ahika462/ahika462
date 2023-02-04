@@ -7,7 +7,7 @@ Namely:
 * Friday Night Fisting
 * Friday Night RYTP
 * Funker 3: Mind Game
-* FNF Animania! (just subtitles)
+* FNF Animania!
 * Depressive Night Murder
 * World of Funkin'
 * Wave Funk Leisure
