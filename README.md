@@ -5,7 +5,7 @@
 Namely:
 
 * Friday Night Fisting
-* Friday Night RYTP
+* RYTP Funk
 * Funker 3: Mind Game
 * FNF Animania!
 * Depressive Night Murder
