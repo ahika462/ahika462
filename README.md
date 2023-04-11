@@ -13,7 +13,7 @@ Namely:
 * Funkin' Ink Machine
 * There's something funky about Amy
 
-### Making my own [https://github.com/h4master/FNF-Infinity-Engine]
+### Making my own engine
 
 link: https://github.com/h4master/FNF-Infinity-Engine
 
