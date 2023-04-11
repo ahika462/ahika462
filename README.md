@@ -10,10 +10,8 @@ Namely:
 * FNF Animania!
 * Depressive Night Murder
 * World of Funkin'
-* Wave Funk Leisure
 * Funkin' Ink Machine
 * There's something funky about Amy
-* SCP Night Funk
 
 ### Making my own engine
 
