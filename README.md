@@ -6,12 +6,8 @@ Namely:
 
 * Friday Night Fisting
 * RYTP Funk
-* Funker 3: Mind Game
 * FNF Animania!
 * Depressive Night Murder
-* World of Funkin'
-* Funkin' Ink Machine
-* There's something funky about Amy
 
 ### Making my own engine
 
