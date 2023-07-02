@@ -5,6 +5,8 @@
 Namely:
 
 * RYTP Funk
+* Portal Guest
+* vs birds drama
 
 ### Other:
 
