@@ -4,10 +4,7 @@
 
 Namely:
 
-* Funkin' PlayBack
 * RYTP Funk
-* FNF Animania!
-* Depressive Night Murder
 
 ### Other:
 
