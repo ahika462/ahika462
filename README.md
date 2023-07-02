@@ -6,7 +6,7 @@ Namely:
 
 * RYTP Funk
 * Portal Guest
-* vs birds drama
+* VS BIRDS DRAMA 🐦😭
 * HellFunker
 
 ### Other:
