@@ -7,7 +7,7 @@ Namely:
 * FNF Animania!
 * RYTP Funk
 * Portal Guest
-* VS BIRDS DRAMA 🐦😭
+* Amoral Funkers
 
 ### Other:
 
