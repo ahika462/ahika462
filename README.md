@@ -1,6 +1,6 @@
 ## Languages:
 
-* ![](https://haxe.org/img/branding/haxe-logo-glyph.png) Haxe
+* Haxe
 * Python(badly)
 * C++(terribly)
 
