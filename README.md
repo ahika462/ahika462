@@ -1,16 +1,7 @@
-# About me
+## Languages:
 
-### Making some FNF mods
+* Haxe
+* Python(badly)
+* C++(terribly)
 
-Namely:
-
-* FNF Animania!
-* RYTP Funk
-* Portal Guest
-* Amoral Funkers
-
-### Other:
-
-* Age: 16
-* Time: UTC +11:00
-* Country: Russia
+* yep.
