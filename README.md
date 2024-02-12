@@ -1,9 +1,41 @@
-## Languages:
+<!DOCTYPE html>
+<html lang="en">
 
-* Haxe
-* Python(badly)
-* C++(terribly)
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css2?family=Marck+Script&family=Montserrat:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
 
-yep.
+	<link rel="stylesheet" href="style.css">
+</head>
 
-![](https://github-readme-stats.vercel.app/api?username=ahika462&show_icons=true&theme=omni)
+<body>
+	<div class="title">
+		<img src="assets/avatar.jpg" alt="" class="avatar">
+		<h1 class="username">アジカ</h1>
+	</div>
+	
+	<div class="content">
+		<div class="socials">
+			<a href="https://github.com/ahika462">
+				<button>
+					<img src="assets/github.svg" alt="">
+				</button>
+			</a>
+			<a href="https://discord.com/users/1176851258796150794">
+				<button>
+					<img src="assets/discord.svg" alt="">
+				</button>
+			</a>
+			<!-- <a href="https://gamejolt.com/@ahika__">
+				<button>
+					<img src="assets/gamejolt.svg" alt="">
+				</button>
+			</a> -->
+		</div>
+		
+		<h1 class="description">Haxe | JavaScript<br>Junior programmer</h1>
+
+		<img src="https://github-readme-stats.vercel.app/api?username=ahika462&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false" alt="" class="github-stats">
+	</div>
+</body>
