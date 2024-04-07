@@ -1,8 +1,8 @@
 ## Languages:
 
 * Haxe
-* Python(badly)
-* C++(terribly)
+* Python
+* C++
 
 yep.
 
