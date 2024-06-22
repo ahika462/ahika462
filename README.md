@@ -1,9 +1,16 @@
-## Languages:
+Haxe/C++ junior programmer
 
-* Haxe
-* Python
-* C++
+Friday Night Funkin' modder
 
-yep.
+working on:
+
+- FNF TakeAway
+- Underverse Funk Event
+- I can't funk
+
+formerly worked on:
+
+- FNF Animania!
+- FNF Colors Adventure
 
 ![](https://github-readme-stats.vercel.app/api?username=ahika462&show_icons=true&bg_color=00000000&hide_border=true)
