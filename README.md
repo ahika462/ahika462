@@ -1,18 +1,19 @@
-Haxe/C++ junior programmer
+# Haxe/C++ junior programmer
 
-Friday Night Funkin' modder
+## Friday Night Funkin' modder
 
-working on:
+### working on:
 
-- FNF TakeAway
-- Underverse Funk Event
-- I can't funk
+  - FNF TakeAway
+  - Underverse Funk Event
+  - I can't funk
+  - SC Gang Bang
 
-formerly worked on:
+### formerly worked on:
 
-- FNF Animania!
-- FNF Colors Adventure
-- Amoral Funkers
-- RYTP Funk
+  - FNF Animania!
+  - FNF Colors Adventure
+  - Amoral Funkers
+  - RYTP Funk
 
 ![](https://github-readme-stats.vercel.app/api?username=ahika462&show_icons=true&bg_color=00000000&hide_border=true)
