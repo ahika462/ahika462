@@ -7,7 +7,6 @@
   - FNF TakeAway
   - Underverse Funk Event
   - I can't funk
-  - SC Gang Bang
 
 ### formerly worked on:
 
